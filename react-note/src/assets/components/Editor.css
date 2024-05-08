@@ -20,10 +20,15 @@ html, body {
   
   .input {
     background-color: rgb(31, 10, 218);
+    border: 2px solid black; 
   }
   
   .output {
-    background-color: black;
+    background-color: rgb(51, 31, 201);
+    border: 2px solid black; 
+  }
+  .output-text{
+    background-color: rgb(23, 21, 41);
   }
   
   .input-text,
